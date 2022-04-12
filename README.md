@@ -7,8 +7,6 @@ In this repository you'll find the cartridge:
 
 As well as a few other files containing the EXA code.
 
-As of now, the python code used to generate the code has not been published due to it relying on a custom un-published library.
-
 ## FAQ
 **It doesn't want to start, what do I do?**
 
