@@ -41,4 +41,4 @@ For details, read the python source code.
 
 `image_copying.py`: Pillow, numpy
 
-`compress.py`: mido
+`midi_to_examus.py`: mido
